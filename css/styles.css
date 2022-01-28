@@ -99,6 +99,9 @@
         position: static;
         width: 256px;
     }
+    .pricing-column{
+        margin-bottom: 30px;
+    }
 }
 
 @media (min-width: 1024px){
