@@ -94,14 +94,14 @@
     padding: 20px;
 }
 
-@media (max-width: 720px){
+@media (max-width: 480px){
     .title-image{
         position: static;
         width: 256px;
     }
 }
 
-@media (max-width: 1024px){
+@media (min-width: 1024px){
     .title-image{
         position: static;
         width: 400px;
